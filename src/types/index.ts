@@ -18,3 +18,4 @@ export interface ProjectItem {
   urlRepo: string;
   destacado?: boolean;
 }
+
