@@ -280,6 +280,8 @@ body {
 
 
 
+
+
 /* Botón cambio de tema y soporte Modo Claro (Context API) */
 .nav__theme-btn {
   background-color: #334155;
@@ -344,6 +346,7 @@ body {
 .app-container--light .form-group label {
   color: #1e293b;
 }
+
 
 .app-container--light .form-group input,
 .app-container--light .form-group textarea {

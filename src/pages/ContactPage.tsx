@@ -17,7 +17,7 @@ export const ContactPage: React.FC = () => {
         
         {enviado ? (
           <div className="form-success" role="status" aria-live="polite">
-            ¡Mensaje enviado con éxito! Gracias por contactarte, Joaquín te responderá pronto.
+            ¡Mensaje enviado con éxito! Gracias por contactarte, Joaquín te responderá tan pronto como pueda!.
           </div>
         ) : (
           <form onSubmit={handleSubmit} className="contact-form">

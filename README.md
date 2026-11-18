@@ -16,3 +16,16 @@ Sigue estos pasos para clonar y levantar el proyecto en tu equipo:
 1. Clona este repositorio:
    ```bash
    git clone [https://github.com/joaquinnavarrete2026-png/evaluacion_4-joaqu-n_navarrete-.git](https://github.com/joaquinnavarrete2026-png/evaluacion_4-joaqu-n_navarrete-.git)
+
+2. Instala las dependencias:
+   ```bash
+   cd evaluacion_4-joaqu-n_navarrete-
+   npm install
+   ```
+
+3. Inicia el servidor de desarrollo:
+   ```bash
+   npm run dev
+   ```
+
+4. Abre tu navegador y visita `http://localhost:5173` para ver la aplicación en funcionamiento.
