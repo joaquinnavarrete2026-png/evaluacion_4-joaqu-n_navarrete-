@@ -1,6 +1,5 @@
 import React from 'react';
 import type { GitHubRepo } from '../../types';
-
 interface ProjectCardProps {
   repo: GitHubRepo;
 }
