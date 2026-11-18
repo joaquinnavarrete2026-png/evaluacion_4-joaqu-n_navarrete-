@@ -7,7 +7,7 @@ export const HomePage: React.FC = () => {
       <section id="sobre-mi" className="section">
         <h2 className="section__title">Sobre mí</h2>
         <p className="section__text">
-          Hola, soy Joaquín Navarrete Figueroa, estudiante de primer año, segundo semestre, en la carrera de Ingeniería Civil en Informática en la Universidad Católica de Temuco. Me apasiona el desarrollo de software y me encuentro enfocado en el desarrollo frontend junior y la creación de soluciones web accesibles y responsivas.
+          Hola, soy Joaquín Enrique Navarrete Figueroa, estudiante de primer año, segundo semestre, en la carrera de Ingeniería Civil en Informática en la Universidad Católica de Temuco. Me apasiona el desarrollo de software y me encuentro enfocado en el desarrollo frontend junior y la creación de soluciones web accesibles y responsivas.
         </p>
       </section>
 
