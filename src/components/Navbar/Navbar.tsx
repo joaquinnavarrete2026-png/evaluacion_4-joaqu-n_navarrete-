@@ -4,7 +4,6 @@ import { useTheme } from '../../context/ThemeContext';
 
 export const Navbar: React.FC = () => {
   const { theme, toggleTheme } = useTheme();
-
   return (
     <header className="header">
       <div className="logo">
